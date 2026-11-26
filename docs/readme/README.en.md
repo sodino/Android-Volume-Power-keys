@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · **English** · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+This app provides on-screen volume and power controls for older Android phones whose physical buttons have stopped working.
+
 Virtual Keys adds three large on-screen buttons to adjust volume, lock the screen, and open the system power menu. It runs on Android 9 and later and was tested on a Huawei Mate 20 X running Android 10 with EMUI 14.
 
 [Download APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

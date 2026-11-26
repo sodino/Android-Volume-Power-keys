@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Français](README.fr.md) · **Português (Brasil)**
 
+O app oferece botões de volume e energia na tela para celulares Android antigos cujos botões físicos pararam de funcionar.
+
 O app **Botões virtuais** adiciona três botões grandes na tela para ajustar o volume, bloquear a tela e abrir o menu de energia do sistema. Funciona no Android 9 ou mais recente e foi testado em um Huawei Mate 20 X com Android 10 e EMUI 14.
 
 [Baixar APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

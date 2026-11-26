@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · **Español** · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+La aplicación ofrece botones de volumen y encendido en pantalla para teléfonos Android antiguos cuyos botones físicos han dejado de funcionar.
+
 **Botones virtuales** añade tres botones grandes en pantalla para ajustar el volumen, bloquear la pantalla y abrir el menú de apagado del sistema. Funciona en Android 9 y versiones posteriores. Se probó en un Huawei Mate 20 X con Android 10 y EMUI 14.
 
 [Descargar APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

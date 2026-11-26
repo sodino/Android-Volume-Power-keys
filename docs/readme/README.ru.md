@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · **Русский** · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+Приложение добавляет экранные кнопки громкости и питания для старых телефонов Android, у которых перестали работать физические кнопки.
+
 Приложение «Виртуальные кнопки» добавляет на экран три крупные кнопки. С их помощью можно менять громкость, блокировать экран и открывать системное меню питания. Приложение работает на Android 9 и новее. Оно проверено на Huawei Mate 20 X с Android 10 и EMUI 14.
 
 [Скачать APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

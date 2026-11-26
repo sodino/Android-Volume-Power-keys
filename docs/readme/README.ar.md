@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · **العربية** · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+يوفر التطبيق أزرارًا على الشاشة للتحكم في مستوى الصوت والطاقة في هواتف Android القديمة التي تعطلت أزرارها الفعلية.
+
 يضيف تطبيق «أزرار افتراضية» ثلاثة أزرار كبيرة على الشاشة لضبط مستوى الصوت وقفل الشاشة وفتح قائمة الطاقة في النظام. يعمل على Android 9 والإصدارات الأحدث. جرى اختباره على هاتف Huawei Mate 20 X بنظام Android 10 وواجهة EMUI 14.
 
 [تنزيل APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

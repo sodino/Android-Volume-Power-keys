@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · **한국어** · [العربية](README.ar.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+물리 버튼이 작동하지 않는 오래된 Android 휴대전화에서도 화면의 음량 및 전원 버튼으로 조작할 수 있습니다.
+
 ‘가상 버튼’은 화면에 큰 버튼 3개를 표시하여 음량 조절, 화면 잠금, 시스템 전원 메뉴 열기를 지원합니다. Android 9 이상에서 사용할 수 있으며, Huawei Mate 20 X(Android 10 / EMUI 14)에서 동작을 확인했습니다.
 
 [APK v1.3 다운로드](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

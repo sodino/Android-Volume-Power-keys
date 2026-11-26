@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [Español](README.es.md) · **Français** · [Português (Brasil)](README.pt.md)
 
+L’application propose des commandes de volume et d’alimentation à l’écran pour les anciens téléphones Android dont les boutons physiques ne fonctionnent plus.
+
 **Boutons virtuels** ajoute trois grands boutons à l’écran pour régler le volume, verrouiller l’écran et ouvrir le menu d’alimentation du système. L’application fonctionne à partir d’Android 9 et a été testée sur un Huawei Mate 20 X sous Android 10 avec EMUI 14.
 
 [Télécharger l’APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

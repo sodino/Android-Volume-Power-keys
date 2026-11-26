@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · **ไทย** · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+แอปนี้เพิ่มปุ่มปรับเสียงและปุ่มเปิด/ปิดบนหน้าจอให้กับโทรศัพท์ Android รุ่นเก่าที่ปุ่มกดจริงใช้งานไม่ได้
+
 แอป «ปุ่มเสมือน» เพิ่มปุ่มขนาดใหญ่ 3 ปุ่มบนหน้าจอสำหรับปรับระดับเสียง ล็อกหน้าจอ และเปิดเมนูเปิด/ปิดเครื่องของระบบ ใช้ได้กับ Android 9 ขึ้นไป โดยทดสอบบน Huawei Mate 20 X ที่ใช้ Android 10 และ EMUI 14
 
 [ดาวน์โหลด APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

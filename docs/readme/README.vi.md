@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [ไทย](README.th.md) · **Tiếng Việt** · [Русский](README.ru.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+Ứng dụng cung cấp nút âm lượng và nút nguồn trên màn hình cho các điện thoại Android đời cũ có nút vật lý bị hỏng.
+
 Phím ảo cung cấp ba nút lớn trên màn hình để chỉnh âm lượng, khóa màn hình và mở menu nguồn của hệ thống. Ứng dụng hỗ trợ Android 9 trở lên và đã được kiểm thử trên Huawei Mate 20 X chạy Android 10 với EMUI 14.
 
 [Tải APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

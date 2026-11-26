@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · **繁體中文** · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [العربية](README.ar.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+老舊 Android 手機的實體按鍵失靈時，可以用螢幕上的音量與電源按鈕繼續操作。
+
 「虛擬按鍵」為 Android 手機提供三個大型螢幕按鈕，可以調整音量、鎖定螢幕及開啟系統電源選單。適用於 Android 9 以上版本，已在華為 Mate 20 X（Android 10 / EMUI 14）上測試。
 
 [下載 APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

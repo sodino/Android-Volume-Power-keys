@@ -2,6 +2,8 @@
 
 **简体中文** · [繁體中文](docs/readme/README.zh-Hant.md) · [English](docs/readme/README.en.md) · [日本語](docs/readme/README.ja.md) · [한국어](docs/readme/README.ko.md) · [العربية](docs/readme/README.ar.md) · [ไทย](docs/readme/README.th.md) · [Tiếng Việt](docs/readme/README.vi.md) · [Русский](docs/readme/README.ru.md) · [Español](docs/readme/README.es.md) · [Français](docs/readme/README.fr.md) · [Português (Brasil)](docs/readme/README.pt.md)
 
+老旧 Android 手机的实体按键失灵时，可以用屏幕上的音量键和电源键继续操作。
+
 「虚拟按键」为 Android 手机提供三个大号屏幕按钮，可调节音量、锁屏和打开系统电源菜单。适用于 Android 9 及以上，已在华为 Mate 20 X（Android 10 / EMUI 14）上验证。
 
 [下载 APK v1.3](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)

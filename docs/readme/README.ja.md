@@ -2,6 +2,8 @@
 
 [简体中文](../../README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · **日本語** · [한국어](README.ko.md) · [العربية](README.ar.md) · [ไทย](README.th.md) · [Tiếng Việt](README.vi.md) · [Русский](README.ru.md) · [Español](README.es.md) · [Français](README.fr.md) · [Português (Brasil)](README.pt.md)
 
+物理ボタンが反応しなくなった古い Android スマートフォンでも、画面上の音量ボタンと電源ボタンで操作できます。
+
 「仮想キー」は、画面上に大きなボタンを 3 つ表示します。音量調整、画面のロック、システムの電源メニューの表示ができます。Android 9 以降に対応し、Huawei Mate 20 X（Android 10 / EMUI 14）で動作を確認しています。
 
 [APK v1.3 をダウンロード](https://github.com/sodino/Android-Volume-Power-keys/raw/refs/heads/develop/apk/android-volume-power-keys-v1.3.apk)
