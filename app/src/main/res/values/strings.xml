@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Virtual Keys</string>
+    <string name="volume_up">Volume Up</string>
+    <string name="volume_down">Volume Down</string>
+    <string name="volume_hint">Swipe up + · Swipe down −</string>
+    <string name="power">Power</string>
+    <string name="power_hint">Tap to lock · Hold for menu</string>
+    <string name="service_description">Tap Power to lock the screen, or touch and hold it to open the system power menu. The service cannot read screen content.</string>
+    <string name="enable_power_title">Enable the Power button</string>
+    <string name="enable_power_message">Turn on “%1$s” in Accessibility settings, then return here.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="lock_failed">Unable to lock the screen</string>
+    <string name="menu_failed">Unable to open the power menu</string>
+    <string name="volume_restricted">System settings prevent this volume change</string>
+</resources>

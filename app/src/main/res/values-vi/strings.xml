@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phím ảo</string>
+    <string name="volume_up">Tăng âm lượng</string>
+    <string name="volume_down">Giảm âm lượng</string>
+    <string name="volume_hint">Vuốt lên để tăng · Vuốt xuống để giảm</string>
+    <string name="power">Nguồn</string>
+    <string name="power_hint">Chạm để khóa · Nhấn giữ để mở menu</string>
+    <string name="service_description">Chạm vào nút nguồn để khóa màn hình hoặc nhấn giữ để mở menu nguồn của hệ thống. Dịch vụ này không thể đọc nội dung trên màn hình.</string>
+    <string name="enable_power_title">Bật nút nguồn</string>
+    <string name="enable_power_message">Bật “%1$s” trong phần cài đặt Trợ năng của hệ thống rồi quay lại đây.</string>
+    <string name="open_settings">Mở cài đặt</string>
+    <string name="lock_failed">Không thể khóa màn hình</string>
+    <string name="menu_failed">Không thể mở menu nguồn</string>
+    <string name="volume_restricted">Cài đặt hệ thống không cho phép thay đổi âm lượng lần này</string>
+</resources>

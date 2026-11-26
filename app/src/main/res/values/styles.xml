@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface">#F1F3F6</color>
+    <color name="volume_key">#20354E</color>
+    <color name="power_key">#71352C</color>
+    <color name="key_text">#FFFFFF</color>
+
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:windowBackground">@color/surface</item>
+        <item name="android:statusBarColor">@color/surface</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:colorAccent">@color/volume_key</item>
+    </style>
+
+    <style name="LargeKey" parent="android:style/Widget.Material.Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">@drawable/key_background</item>
+        <item name="android:backgroundTint">@color/volume_key</item>
+        <item name="android:drawablePadding">18dp</item>
+        <item name="android:gravity">center_vertical|start</item>
+        <item name="android:paddingHorizontal">24dp</item>
+        <item name="android:paddingVertical">4dp</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/key_text</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+</resources>

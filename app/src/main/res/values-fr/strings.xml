@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boutons virtuels</string>
+    <string name="volume_up">Volume +</string>
+    <string name="volume_down">Volume −</string>
+    <string name="volume_hint">Balayez vers le haut (+) ou le bas (−)</string>
+    <string name="power">Marche/arrêt</string>
+    <string name="power_hint">Appuyez pour verrouiller · Maintenez pour le menu</string>
+    <string name="service_description">Appuyez sur le bouton marche/arrêt pour verrouiller l’écran. Maintenez-le enfoncé pour ouvrir le menu d’alimentation du système. Le service ne peut pas lire le contenu de l’écran.</string>
+    <string name="enable_power_title">Activer le bouton marche/arrêt</string>
+    <string name="enable_power_message">Activez « %1$s » dans les paramètres d’accessibilité du système, puis revenez ici.</string>
+    <string name="open_settings">Ouvrir les paramètres</string>
+    <string name="lock_failed">Impossible de verrouiller l’écran</string>
+    <string name="menu_failed">Impossible d’ouvrir le menu d’alimentation</string>
+    <string name="volume_restricted">Les paramètres du système empêchent ce changement de volume</string>
+</resources>

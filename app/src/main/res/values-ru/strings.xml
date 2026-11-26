@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Виртуальные кнопки</string>
+    <string name="volume_up">Громкость +</string>
+    <string name="volume_down">Громкость −</string>
+    <string name="volume_hint">Смахните вверх (+) или вниз (−)</string>
+    <string name="power">Питание</string>
+    <string name="power_hint">Нажмите для блокировки · Удерживайте для меню</string>
+    <string name="service_description">Нажмите кнопку питания, чтобы заблокировать экран. Удерживайте её, чтобы открыть системное меню питания. Служба не может читать содержимое экрана.</string>
+    <string name="enable_power_title">Включить кнопку питания</string>
+    <string name="enable_power_message">Откройте раздел «Специальные возможности» в настройках, включите «%1$s» и вернитесь сюда.</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="lock_failed">Не удалось заблокировать экран</string>
+    <string name="menu_failed">Не удалось открыть меню питания</string>
+    <string name="volume_restricted">Настройки системы не позволяют изменить громкость</string>
+</resources>

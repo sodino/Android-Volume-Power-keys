@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">仮想キー</string>
+    <string name="volume_up">音量を上げる</string>
+    <string name="volume_down">音量を下げる</string>
+    <string name="volume_hint">上にスワイプで＋ · 下にスワイプで−</string>
+    <string name="power">電源</string>
+    <string name="power_hint">タップでロック · 長押しでメニュー</string>
+    <string name="service_description">電源ボタンをタップすると画面がロックされ、長押しするとシステムの電源メニューが開きます。このサービスは画面の内容を読み取れません。</string>
+    <string name="enable_power_title">電源ボタンを有効にする</string>
+    <string name="enable_power_message">ユーザー補助の設定で「%1$s」を有効にしてから、この画面に戻ってください。</string>
+    <string name="open_settings">設定を開く</string>
+    <string name="lock_failed">画面をロックできませんでした</string>
+    <string name="menu_failed">電源メニューを開けませんでした</string>
+    <string name="volume_restricted">システム設定により音量を変更できません</string>
+</resources>

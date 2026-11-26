@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ปุ่มเสมือน</string>
+    <string name="volume_up">เพิ่มเสียง</string>
+    <string name="volume_down">ลดเสียง</string>
+    <string name="volume_hint">ปัดขึ้นเพื่อเพิ่ม · ปัดลงเพื่อลด</string>
+    <string name="power">ปุ่มเปิด/ปิด</string>
+    <string name="power_hint">แตะเพื่อล็อก · กดค้างเพื่อเปิดเมนู</string>
+    <string name="service_description">แตะปุ่มเปิด/ปิดเพื่อล็อกหน้าจอ หรือกดค้างเพื่อเปิดเมนูเปิด/ปิดเครื่องของระบบ บริการนี้ไม่สามารถอ่านเนื้อหาบนหน้าจอได้</string>
+    <string name="enable_power_title">เปิดใช้ปุ่มเปิด/ปิด</string>
+    <string name="enable_power_message">เปิดใช้ “%1$s” ในการตั้งค่าการช่วยเหลือพิเศษของระบบ แล้วกลับมาที่แอปนี้</string>
+    <string name="open_settings">เปิดการตั้งค่า</string>
+    <string name="lock_failed">ไม่สามารถล็อกหน้าจอได้</string>
+    <string name="menu_failed">ไม่สามารถเปิดเมนูเปิด/ปิดเครื่องได้</string>
+    <string name="volume_restricted">การตั้งค่าระบบไม่อนุญาตให้ปรับระดับเสียงในครั้งนี้</string>
+</resources>

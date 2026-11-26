@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Botones virtuales</string>
+    <string name="volume_up">Subir volumen</string>
+    <string name="volume_down">Bajar volumen</string>
+    <string name="volume_hint">Desliza arriba (+) o abajo (−)</string>
+    <string name="power">Encendido</string>
+    <string name="power_hint">Toca para bloquear · Mantén pulsado para ver el menú</string>
+    <string name="service_description">Toca el botón de encendido para bloquear la pantalla o mantenlo pulsado para abrir el menú de apagado del sistema. El servicio no puede leer el contenido de la pantalla.</string>
+    <string name="enable_power_title">Activar el botón de encendido</string>
+    <string name="enable_power_message">Activa «%1$s» en los ajustes de accesibilidad del sistema y vuelve aquí.</string>
+    <string name="open_settings">Abrir ajustes</string>
+    <string name="lock_failed">No se pudo bloquear la pantalla</string>
+    <string name="menu_failed">No se pudo abrir el menú de apagado</string>
+    <string name="volume_restricted">Los ajustes del sistema impiden este cambio de volumen</string>
+</resources>

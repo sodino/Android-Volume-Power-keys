@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أزرار افتراضية</string>
+    <string name="volume_up">رفع الصوت</string>
+    <string name="volume_down">خفض الصوت</string>
+    <string name="volume_hint">اسحب لأعلى للزيادة · لأسفل للخفض</string>
+    <string name="power">الطاقة</string>
+    <string name="power_hint">اضغط للقفل · اضغط مطولًا لفتح القائمة</string>
+    <string name="service_description">اضغط على زر الطاقة لقفل الشاشة، أو اضغط عليه مطولًا لفتح قائمة الطاقة في النظام. لا يمكن لهذه الخدمة قراءة محتوى الشاشة.</string>
+    <string name="enable_power_title">تفعيل زر الطاقة</string>
+    <string name="enable_power_message">فعّل «%1$s» في إعدادات تسهيل الاستخدام، ثم عد إلى هنا.</string>
+    <string name="open_settings">فتح الإعدادات</string>
+    <string name="lock_failed">تعذّر قفل الشاشة</string>
+    <string name="menu_failed">تعذّر فتح قائمة الطاقة</string>
+    <string name="volume_restricted">تمنع إعدادات النظام هذا التغيير في مستوى الصوت</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/surface"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <com.sodino.virtualkeys.VolumeButton
+        android:id="@+id/volume_down"
+        style="@style/LargeKey"
+        android:layout_marginBottom="12dp"
+        android:drawableStart="@drawable/ic_volume_down"
+        android:text="@string/volume_down" />
+
+    <com.sodino.virtualkeys.VolumeButton
+        android:id="@+id/volume_up"
+        style="@style/LargeKey"
+        android:layout_marginBottom="12dp"
+        android:drawableStart="@drawable/ic_volume_up"
+        android:text="@string/volume_up" />
+
+    <Button
+        android:id="@+id/power"
+        style="@style/LargeKey"
+        android:backgroundTint="@color/power_key"
+        android:drawableStart="@drawable/ic_power"
+        android:text="@string/power" />
+
+</LinearLayout>

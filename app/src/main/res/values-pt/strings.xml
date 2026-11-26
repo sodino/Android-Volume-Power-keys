@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Botões virtuais</string>
+    <string name="volume_up">Aumentar volume</string>
+    <string name="volume_down">Diminuir volume</string>
+    <string name="volume_hint">Deslize para cima (+) ou para baixo (−)</string>
+    <string name="power">Ligar/desligar</string>
+    <string name="power_hint">Toque para bloquear · Mantenha pressionado para abrir o menu</string>
+    <string name="service_description">Toque no botão de energia para bloquear a tela. Mantenha o botão pressionado para abrir o menu de energia do sistema. O serviço não pode ler o conteúdo da tela.</string>
+    <string name="enable_power_title">Ativar o botão de energia</string>
+    <string name="enable_power_message">Ative “%1$s” nas configurações de acessibilidade do sistema e volte aqui.</string>
+    <string name="open_settings">Abrir configurações</string>
+    <string name="lock_failed">Não foi possível bloquear a tela</string>
+    <string name="menu_failed">Não foi possível abrir o menu de energia</string>
+    <string name="volume_restricted">As configurações do sistema impedem esta mudança de volume</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">虛擬按鍵</string>
+    <string name="volume_up">音量加</string>
+    <string name="volume_down">音量減</string>
+    <string name="volume_hint">上滑增加 · 下滑減少</string>
+    <string name="power">電源</string>
+    <string name="power_hint">輕觸鎖定 · 長按開啟電源選單</string>
+    <string name="service_description">輕觸電源按鈕即可鎖定螢幕，長按可開啟系統電源選單。服務無法讀取螢幕內容。</string>
+    <string name="enable_power_title">啟用電源按鈕</string>
+    <string name="enable_power_message">請在系統無障礙設定中開啟「%1$s」，再返回這裡。</string>
+    <string name="open_settings">開啟設定</string>
+    <string name="lock_failed">系統暫時無法鎖定螢幕</string>
+    <string name="menu_failed">系統暫時無法開啟電源選單</string>
+    <string name="volume_restricted">目前的系統設定限制了這項音量操作</string>
+</resources>

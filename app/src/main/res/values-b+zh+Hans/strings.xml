@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">虚拟按键</string>
+    <string name="volume_up">音量加</string>
+    <string name="volume_down">音量减</string>
+    <string name="volume_hint">上滑增加 · 下滑减少</string>
+    <string name="power">电源</string>
+    <string name="power_hint">轻点锁屏 · 长按打开关机菜单</string>
+    <string name="service_description">轻点电源按钮锁屏，长按打开系统关机菜单。服务不会读取屏幕内容。</string>
+    <string name="enable_power_title">启用电源按钮</string>
+    <string name="enable_power_message">请在系统无障碍设置中开启「%1$s」，再返回这里。</string>
+    <string name="open_settings">打开设置</string>
+    <string name="lock_failed">系统暂时无法锁屏</string>
+    <string name="menu_failed">系统暂时无法打开关机菜单</string>
+    <string name="volume_restricted">当前系统设置限制了此音量操作</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">가상 버튼</string>
+    <string name="volume_up">음량 높이기</string>
+    <string name="volume_down">음량 낮추기</string>
+    <string name="volume_hint">위로 밀어 높이기 · 아래로 밀어 낮추기</string>
+    <string name="power">전원</string>
+    <string name="power_hint">탭하여 잠금 · 길게 눌러 메뉴 열기</string>
+    <string name="service_description">전원 버튼을 탭하면 화면이 잠기고, 길게 누르면 시스템 전원 메뉴가 열립니다. 이 서비스는 화면 내용을 읽을 수 없습니다.</string>
+    <string name="enable_power_title">전원 버튼 사용 설정</string>
+    <string name="enable_power_message">시스템 접근성 설정에서 ‘%1$s’을(를) 켠 다음 이 화면으로 돌아오세요.</string>
+    <string name="open_settings">설정 열기</string>
+    <string name="lock_failed">화면을 잠글 수 없습니다</string>
+    <string name="menu_failed">전원 메뉴를 열 수 없습니다</string>
+    <string name="volume_restricted">시스템 설정으로 인해 음량을 변경할 수 없습니다</string>
+</resources>
