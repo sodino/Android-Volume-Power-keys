@@ -17,7 +17,7 @@
 
 ## スクリーンショット
 
-<img src="../screenshots/mate20x.png" alt="Huawei Mate 20 X 上の簡体字中国語の画面。上から音量を下げる、音量を上げる、電源の順" width="360">
+<img src="../screenshots/mate20x-ja.png" alt="Huawei Mate 20 X 上の日本語画面。上から音量を下げる、音量を上げる、電源の順" width="360">
 
 ## アプリの表示言語
 

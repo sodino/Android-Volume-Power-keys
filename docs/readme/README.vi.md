@@ -17,7 +17,7 @@ Khi điện thoại đã tắt hẳn, ứng dụng không thể bật máy. Nế
 
 ## Ảnh chụp màn hình
 
-<img src="../screenshots/mate20x.png" alt="Giao diện tiếng Trung giản thể trên Huawei Mate 20 X với các nút giảm âm lượng, tăng âm lượng và nguồn" width="360">
+<img src="../screenshots/mate20x-vi.png" alt="Giao diện tiếng Việt trên Huawei Mate 20 X với các nút giảm âm lượng, tăng âm lượng và nguồn" width="360">
 
 ## Ngôn ngữ ứng dụng
 

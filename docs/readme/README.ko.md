@@ -17,7 +17,7 @@
 
 ## 실제 화면
 
-<img src="../screenshots/mate20x.png" alt="Huawei Mate 20 X의 중국어 간체 화면. 위에서부터 음량 낮추기, 음량 높이기, 전원 버튼" width="360">
+<img src="../screenshots/mate20x-ko.png" alt="Huawei Mate 20 X의 한국어 화면. 위에서부터 음량 낮추기, 음량 높이기, 전원 버튼" width="360">
 
 ## 앱 언어
 

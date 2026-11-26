@@ -17,7 +17,7 @@ Lorsque le téléphone est complètement éteint, l’application ne peut pas le
 
 ## Capture d’écran
 
-<img src="../screenshots/mate20x.png" alt="Interface en chinois simplifié sur un Huawei Mate 20 X avec les boutons Volume −, Volume + et Marche/arrêt" width="360">
+<img src="../screenshots/mate20x-fr.png" alt="Interface en français sur un Huawei Mate 20 X avec les boutons Volume −, Volume + et Marche/arrêt" width="360">
 
 ## Langue de l’application
 

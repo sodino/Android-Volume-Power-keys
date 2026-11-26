@@ -17,7 +17,7 @@
 
 ## 實機截圖
 
-<img src="../screenshots/mate20x.png" alt="華為 Mate 20 X 上的簡體中文介面，由上至下為音量減、音量加及電源" width="360">
+<img src="../screenshots/mate20x-zh-Hant.png" alt="華為 Mate 20 X 上的繁體中文介面，由上至下為音量減、音量加及電源" width="360">
 
 ## 應用程式語言
 

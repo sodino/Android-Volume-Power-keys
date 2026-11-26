@@ -17,7 +17,7 @@
 
 ## ภาพหน้าจอ
 
-<img src="../screenshots/mate20x.png" alt="หน้าจอภาษาจีนตัวย่อบน Huawei Mate 20 X แสดงปุ่มลดเสียง เพิ่มเสียง และปุ่มเปิด/ปิด" width="360">
+<img src="../screenshots/mate20x-th.png" alt="หน้าจอภาษาไทยบน Huawei Mate 20 X แสดงปุ่มลดเสียง เพิ่มเสียง และปุ่มเปิด/ปิด" width="360">
 
 ## ภาษาของแอป
 

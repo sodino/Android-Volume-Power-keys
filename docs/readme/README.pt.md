@@ -17,7 +17,7 @@ Com o celular totalmente desligado, o app não consegue ligá-lo. Se o botão f�
 
 ## Captura de tela
 
-<img src="../screenshots/mate20x.png" alt="Interface em chinês simplificado em um Huawei Mate 20 X com os botões de diminuir volume, aumentar volume e ligar/desligar" width="360">
+<img src="../screenshots/mate20x-pt.png" alt="Interface em português do Brasil em um Huawei Mate 20 X com os botões de diminuir volume, aumentar volume e ligar/desligar" width="360">
 
 ## Idioma do app
 

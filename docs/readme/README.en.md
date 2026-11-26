@@ -17,7 +17,7 @@ Once the phone is completely powered off, the app cannot turn it on. If the phys
 
 ## Screenshot
 
-<img src="../screenshots/mate20x.png" alt="Virtual Keys on a Huawei Mate 20 X in Simplified Chinese, showing Volume Down, Volume Up, and Power" width="360">
+<img src="../screenshots/mate20x-en.png" alt="Virtual Keys in English on a Huawei Mate 20 X, showing Volume Down, Volume Up, and Power" width="360">
 
 ## App language
 

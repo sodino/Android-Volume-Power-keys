@@ -17,7 +17,7 @@ Si el teléfono está completamente apagado, la aplicación no puede encenderlo.
 
 ## Captura de pantalla
 
-<img src="../screenshots/mate20x.png" alt="Interfaz en chino simplificado en un Huawei Mate 20 X con los botones de bajar volumen, subir volumen y encendido" width="360">
+<img src="../screenshots/mate20x-es.png" alt="Interfaz en español en un Huawei Mate 20 X con los botones de bajar volumen, subir volumen y encendido" width="360">
 
 ## Idioma de la aplicación
 
